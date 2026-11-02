@@ -1,0 +1,5 @@
+**/node_modules
+**/dist
+**/__pycache__
+.git
+backend/data/synthetic_*.json
